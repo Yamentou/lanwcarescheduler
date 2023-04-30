@@ -4,3 +4,4 @@
 # ignore ALL files in ANY directory named docs or uploads
 docs/
 uploads/
+assets/php/dbVars.php

@@ -1,9 +1,5 @@
 <?php
-    //DB connection parameters
-    $serverName = "localhost";
-    $userName = "root";
-    $password = "root";
-    $dbName = "lawncarescheduler";
+    require('dbVars.php');
 
     //Create connection
     //Syntax: mysqli_connect(host, username, password, dbname, port, socket)
